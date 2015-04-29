@@ -1,0 +1,29 @@
+{
+  "name": "Floccus",
+  "version": "1.0.0",
+  "description": "Torneo Floccus",
+  "main": "app.js",
+  "engines": {
+    "node": "0.10.31",
+    "npm": ">=1.4"
+  },
+  "repository": "https://github.com/agrueso/floccus.git",
+  "authors": [
+    "Angel Grueso",
+    "Juan Carlos Ruiz"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mongoose"   : "3.8.15",
+    "express"    : "~4.7.2",
+    "morgan"     : "~1.2.2",
+    "body-parser": "~1.5.2",
+    "method-override": "~2.1.2"
+  },
+  "changelog": [
+    {
+      "0.0.0": "Initial release"
+    }
+  ],
+  "homepage": "https://es-es.facebook.com/PadelConcordia"
+}
